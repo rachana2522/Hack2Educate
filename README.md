@@ -1,7 +1,9 @@
 # Hack2Educate
 
 Team name:- patronus
+
 Theme:- THEME 1 :- A BETTER SEARCH ENGINE FOR EDUCATION
+
 Idea:- 
 
 
