@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="robots" content="INDEX, FOLLOW">
+    <title>patronus</title>
+    
+    <!-- <link rel="icon" href="./res/Icons/KudoSearch.png"> -->
+    <link rel="stylesheet" href="./scripts/css/index.css">
+</head>
+<body>
+    <script src="./scripts/js/Color.js"></script>
+    <script src="./scripts/js/Patronus.js"></script>
+    <header>
+        <nav>
+            <ul>
+                <li><a>Hacker2Educate</a></li>
+                <li><a title="Follow us on Github." href="./about.html" target="_blank">About </a></li>
+                <li><a title="patronus on Github." href="https://github.com/rachana2522/Hack2Educate" target="_blank">Github</a></li>
+                <li><a title="Search History." href="./history.html">History</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <div>
+            <h3>patronus</h3>
+            <input type="text" placeholder="Type to search..." id="Searchbar" onkeydown="IsEnter();" autocomplete="off" autofocus>
+            <input type="button" value="Search" id="Searchbtn" onclick="TryToSearch();">
+        </div>
+        <script> FocusSearchbarOnEsc(); </script>
+    </section>
+</body>
+</html>
