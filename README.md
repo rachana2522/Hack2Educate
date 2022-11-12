@@ -20,7 +20,7 @@ What will be your final demo? (280 characters)
 Our final demo will include a full hands on working prototype which we will showcase in a video listed on YouTube for everyone to view.We want to build a web application that let's anyone from anyone search anything they want. The backend will check the comment,subtitle and more on and then from that query we will be able to determine what their specific needs are.We want to build a web application that lets anyone from anywhere search anything they want. The backend will check the comment,subtitle and more on and then from that query we will be able to determine what their specific needs are.It would showcase the inner workings of our model, a small presentation from ideation to the prototype phase. Our hope is to give our model the light of the day.
 
 
-
+123456
 
 Members:-
 
