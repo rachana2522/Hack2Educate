@@ -7,6 +7,7 @@ THEME 1 :- A BETTER SEARCH ENGINE FOR EDUCATION
 How will you solve the problem?
 
 Searching and accessing information for a relevant topic is difficult as there are many resources and finding the best resource is time-consuming. So to overcome this, our idea is to build a website/app to look for information about topics that are relevant to their interests. Collection of learning resources organized by topics, videos, and articles, and based on ratings the user can search through audio or search bar or through scan to help them to find the best resource. These allow students to target specific information and access journal articles and educational resources.
+Our goal is to build a website which will allow any user to search their query which will in turn will show answers to their questions in the form of videos. We will do this by using APIs of the resulting videos via subtitles, comments and/or matching relevant description to check and identify the correct solution to the question from a certain timestamp of the video.
 
 What will be your final demo?
 
