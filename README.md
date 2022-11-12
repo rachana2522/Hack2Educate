@@ -4,6 +4,16 @@ Team name: Patronus
 
 THEME 1 :- A BETTER SEARCH ENGINE FOR EDUCATION
 
+Users can ask any educational question or choose any micro-topic they want to learn and \
+they will be shown the best related educational content categorised by platform: \
+Twitter threads, Quora answers, brainly answers, wikipedia articles, reddit posts, third-party websites, etc. 
+
+Users can contribute more resources, upvote good resources, downvote bad resources 
+
+Build a distraction-free zone for students to learn from the best educational content from around the Internet.
+
+
+
 How will you solve the problem?
 
 Searching and accessing information for a relevant topic is difficult as there are many resources and finding the best resource is time-consuming. So to overcome this, our idea is to build a website/app to look for information about topics that are relevant to their interests. Collection of learning resources organized by topics, videos, and articles, and based on ratings the user can search through audio or search bar or through scan to help them to find the best resource. These allow students to target specific information and access journal articles and educational resources.
