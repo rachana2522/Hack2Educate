@@ -11,9 +11,7 @@ Make a search engine which would get exact results from a video by reading the c
 
 How will you solve the problem? (280 characters)
 
-Our solution includes mainly the idea we came up with during our idea sprint and putting them to real-world problem like building a better all in one search engine for students everywhere all over the global. We will have several idea sprints which will turn into prototyping via virtual meetings and keep all team members posted. search engine which would get exact results from a video by reading the contents from video description, subtitles and comments. Each member has a role that they will follow and implement towards the end project.
-
-
+Our goal is to build a website which will allow any user to search their query which will in turn will show answers to their questions in the form of videos. We will do this by using APIs of the resulting videos via subtitles, comments and/or matching relevant description to check and identify the correct solution to the question from a certain timestamp of the video.
 
 What will be your final demo? (280 characters)
 
